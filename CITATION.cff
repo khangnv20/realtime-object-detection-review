@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng kho lưu trữ này cho nghiên cứu, vui lòng trích dẫn theo thông tin bên dưới."
+title: "Phát hiện đối tượng thời gian thực trong thị giác máy tính"
+version: 1.0.0
+date-released: 2026-11-21
+authors:
+  - family-names: "Nguyen"
+    given-names: "Vi Khang"
+    orcid: "https://orcid.org/0009-0007-5539-8422"
+repository-code: "https://github.com/khangnv20/realtime-object-detection-review"
+license: MIT
